@@ -1,0 +1,11 @@
+.SearchPanel {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+
+}
+
+.SearchPanel input {
+    font-size: 20px;
+    border-radius: 5px;
+}

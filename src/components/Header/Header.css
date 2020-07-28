@@ -1,0 +1,10 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+   align-items: baseline;
+}
+
+.Header h2{
+    font-size: 16px;
+    color: gray;
+}

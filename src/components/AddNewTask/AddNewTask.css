@@ -1,0 +1,11 @@
+.AddNewTask {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+
+}
+
+.AddNewTask input {
+    font-size: 20px;
+    border-radius: 5px;
+}
